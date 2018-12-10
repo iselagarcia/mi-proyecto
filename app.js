@@ -1,1 +1,1 @@
-g
+console.log ('hola mundo');
